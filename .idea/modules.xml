@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/QL_Coffee_Sanfrancis.iml" filepath="$PROJECT_DIR$/.idea/QL_Coffee_Sanfrancis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Soure_Code_QL_Coffee/Soure_Code_QL_Coffee.iml" filepath="$PROJECT_DIR$/Soure_Code_QL_Coffee/Soure_Code_QL_Coffee.iml" />
+    </modules>
+  </component>
+</project>

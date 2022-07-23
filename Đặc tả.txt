@@ -1,0 +1,20 @@
+* Chức năng đăng nhập: Sử dụng cho việc đăng nhập sử dụng hệ thống
+	+ Đăng nhập đúng: Hiển thị các chức năng của project
+	+ Đăng nhập sai: Báo lỗi
+Mô tả hệ thống bao gồm các chức năng cơ bản sau
+1. Quản lí nhân viên
+	Bao gồm các chức năng cơ bản như Xem, Thêm, Cập nhật (sửa), Xóa, và tìm kiếm nhân viên. Tương tác qua lại với cơ sở dữ liệu SQLserver
+	+ Chức năng tìm kiếm có thể tìm kiếm theo tên, id hoặc quê quán của nhân viên.
+2. Quản lí món
+	Chức năng cũng gồm các thao tác cơ bản như Xem, Thêm, Xóa, và tìm kiếm món ăn từ cơ sở dữ liệu.
+	+ Chức năng thêm sẽ thêm các thành phần của món ăn, thông báo khi thêm thành công món ăn.
+	+ Chức năng tìm kiếm có thể tìm kiếm theo tên hoặc giá của món ăn.
+3. Quản lí bàn
+	Sẽ có chức năng thêm và xóa bàn, theo đó, sẽ có chức năng Xem danh sách bàn trống, trích xuất từ csdl, xuất ra cho người dùng.
+4. Đặt bàn(oder)
+	Xuất hiện thực đơn của quán khi chọn vào chức năng này, người sử dụng sẽ tiến hành nhập ID mới cho lần đặt hàng.
+	Tiếp theo, người dùng sẽ được lựa chọn bàn trống với sức chứa khách hàng mong muốn.
+	Các bước tiếp theo, hệ thống sẽ yêu cầu các thông tin định danh (tên) của khách hàng.
+	Hệ thống sẽ báo thành công khi hoàn tất các yêu cầu cần thiết
+5. Xuất hóa đơn
+	Hệ thống sẽ yêu cầu nhập vào mã Bill hóa đơn cần thanh toán, và trả về thông tin cần thanh toán cho khách hàng.

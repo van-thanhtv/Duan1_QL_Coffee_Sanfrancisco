@@ -1,0 +1,213 @@
+
+c
+java:S1192‚"GDefine a constant instead of duplicating this literal "Dialog" 3 times.(Ç½æ£ùÿÿÿÿ
+
+java:S1192ü"tDefine a constant instead of duplicating this literal "NhÃ¢n viÃªn khÃ´ng dÃ¹ng Ä‘Æ°á»£c chá»©c nÄƒng nÃ y" 6 times.(øíí³ıÿÿÿÿ
+e
+java:S1192ë"IDefine a constant instead of duplicating this literal "Verdana" 10 times.(©Î°êıÿÿÿÿ
+u
+java:S1192æ"YDefine a constant instead of duplicating this literal "Vui lÃ²ng Ä‘Äƒng nháº­p" 10 times.(ûş“½úÿÿÿÿ
+o
+java:S1192@"TDefine a constant instead of duplicating this literal "ChÆ°a Ä‘Äƒng nháº­p" 3 times.(ÖåóÕşÿÿÿÿ
+a
+java:S1192Ä"JDefine a constant instead of duplicating this literal " 20:00:00" 3 times.(ÅÕ®»
+g	java:S117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şªñÄ
+l	java:S117¿"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò¯„üÿÿÿÿ
+>
+java:S1604F"(Make this anonymous inner class a lambda(Ğü÷
+?
+java:S1604ñ"(Make this anonymous inner class a lambda(¦‰êš
+?
+java:S1604ü"(Make this anonymous inner class a lambda(õöğ¾
+D
+java:S1604‡"(Make this anonymous inner class a lambda(Ø‘óÌşÿÿÿÿ
+D
+java:S1604’"(Make this anonymous inner class a lambda(ÿş‰øÿÿÿÿ
+>
+java:S1604Ÿ"(Make this anonymous inner class a lambda(¡‰ƒ
+?
+java:S1604ª"(Make this anonymous inner class a lambda(½äµú
+D
+java:S1604µ"(Make this anonymous inner class a lambda(¸Ú—úÿÿÿÿ
+?
+java:S1604À"(Make this anonymous inner class a lambda(©Ú£Ó
+D
+java:S1604Ë"(Make this anonymous inner class a lambda(Š¯‹æüÿÿÿÿ
+D
+java:S1604Ö"(Make this anonymous inner class a lambda(ÀÃ÷œüÿÿÿÿ
+D
+java:S1604‘"(Make this anonymous inner class a lambda(„±ÓÎùÿÿÿÿ
+?
+java:S1604œ"(Make this anonymous inner class a lambda(ÇµÇß
+?
+java:S1604§"(Make this anonymous inner class a lambda(Î¤í
+?
+java:S1604²"(Make this anonymous inner class a lambda(Ö—Å
+D
+java:S1604ñ"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+a	java:S101)"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(â‰|
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­í|
+j	java:S116ù"ORename this field "From" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÂé§ÿÿÿÿÿ
+g	java:S116ú"QRename this field "Fromch" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æüšñ
+e	java:S116û"ORename this field "Home" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÀ¯
+o
+java:S1450ù"SRemove the "From" field and declare it as a local variable in the relevant methods.(ŸÂé§ÿÿÿÿÿ
+l
+java:S1450ü"URemove the "btnBan" field and declare it as a local variable in the relevant methods.(Ùÿÿ
+l
+java:S1450ı"VRemove the "btnHome" field and declare it as a local variable in the relevant methods.(²‰›
+w
+java:S1450ş"[Remove the "btnKhachHang" field and declare it as a local variable in the relevant methods.(“ÂÅæüÿÿÿÿ
+q
+java:S1450ÿ"ZRemove the "btnNhanVien" field and declare it as a local variable in the relevant methods.(³¾˜é
+m
+java:S1450€"WRemove the "btnOrder" field and declare it as a local variable in the relevant methods.(Î‡í
+u
+java:S1450"YRemove the "btnSanPham" field and declare it as a local variable in the relevant methods.(şãÌ’üÿÿÿÿ
+n
+java:S1450‚"WRemove the "btnThoat" field and declare it as a local variable in the relevant methods.(ÎªËÎ
+u
+java:S1450ƒ"YRemove the "btnThongKe" field and declare it as a local variable in the relevant methods.(ÖƒÊöúÿÿÿÿ
+r
+java:S1450„"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+r
+java:S1450…"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ
+r
+java:S1450†"VRemove the "jLabel3" field and declare it as a local variable in the relevant methods.(Îä€øÿÿÿÿ
+l
+java:S1450‡"URemove the "jMenu1" field and declare it as a local variable in the relevant methods.(şÚÖ˜
+l
+java:S1450ˆ"URemove the "jMenu2" field and declare it as a local variable in the relevant methods.(€˜ÇÛ
+t
+java:S1450‰"XRemove the "jMenuBar1" field and declare it as a local variable in the relevant methods.(úıÁ›ÿÿÿÿÿ
+o
+java:S1450Š"YRemove the "jMenuItem1" field and declare it as a local variable in the relevant methods.(Éíå4
+p
+java:S1450‹"YRemove the "jMenuItem2" field and declare it as a local variable in the relevant methods.(ßÛİ•
+u
+java:S1450Œ"YRemove the "jMenuItem3" field and declare it as a local variable in the relevant methods.(ÇÄˆÆøÿÿÿÿ
+p
+java:S1450"YRemove the "jMenuItem4" field and declare it as a local variable in the relevant methods.(¸ªÊå
+p
+java:S1450"YRemove the "jMenuItem5" field and declare it as a local variable in the relevant methods.(ÈãÏ€
+m
+java:S1450"VRemove the "jPanel3" field and declare it as a local variable in the relevant methods.(Œ³èÈ
+q
+java:S1450"ZRemove the "jSeparator1" field and declare it as a local variable in the relevant methods.(’©ìÉ
+v
+java:S1450‘"ZRemove the "jSeparator6" field and declare it as a local variable in the relevant methods.(…ÃŸŒúÿÿÿÿ
+v
+java:S1450’"ZRemove the "jSeparator7" field and declare it as a local variable in the relevant methods.(‰£…èşÿÿÿÿ
+v
+java:S1450“"ZRemove the "jSeparator8" field and declare it as a local variable in the relevant methods.(—´ã‚üÿÿÿÿ
+q
+java:S1450•"ZRemove the "lblFacebook" field and declare it as a local variable in the relevant methods.(æÑØ°
+t
+java:S1450—"]Remove the "rSButtonIconD1" field and declare it as a local variable in the relevant methods.(ÉÎ¯ß
+y
+java:S1450˜"]Remove the "rSButtonIconD2" field and declare it as a local variable in the relevant methods.(¼™í¸ÿÿÿÿÿ
+X
+java:S32522"=Use static access with "java.awt.Frame" for "MAXIMIZED_BOTH".(•×­Ÿıÿÿÿÿ
+Q
+java:S1161º":Add the "@Override" annotation above this method signature(†ŒË³
+Q
+java:S1161í":Add the "@Override" annotation above this method signature(†ŒË³
+M
+java:S1874‰"1Remove this use of "CTRL_MASK"; it is deprecated.(Ÿ€Å”ùÿÿÿÿ
+Q
+java:S1161":Add the "@Override" annotation above this method signature(†ŒË³
+M
+java:S1874™"1Remove this use of "CTRL_MASK"; it is deprecated.(†Ûìßÿÿÿÿÿ
+H
+java:S1874¤"1Remove this use of "CTRL_MASK"; it is deprecated.(Ó½—¥
+M
+java:S1874¯"1Remove this use of "CTRL_MASK"; it is deprecated.(‡ğÁûÿÿÿÿ
+F
+java:S1172Õ"*Remove this unused method parameter "evt".(¼ÃïÁıÿÿÿÿ
+A
+java:S1172Ú"*Remove this unused method parameter "evt".(Ò…È‹
+F
+java:S1172ß"*Remove this unused method parameter "evt".(­ŸŒ”ıÿÿÿÿ
+F
+java:S1172ã"*Remove this unused method parameter "evt".(×Õé•üÿÿÿÿ
+A
+java:S1172í"*Remove this unused method parameter "evt".(™‡Ìƒ
+N
+java:S1135î"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+F
+java:S1172ò"*Remove this unused method parameter "evt".(ú¦‡–úÿÿÿÿ
+N
+java:S1135ó"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+A
+java:S1172"*Remove this unused method parameter "evt".(ßıù¼
+N
+java:S1135‚"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+F
+java:S1172"*Remove this unused method parameter "evt".(„û‡–úÿÿÿÿ
+N
+java:S1135‘"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+F
+java:S1172Ÿ"*Remove this unused method parameter "evt".(ó€·òøÿÿÿÿ
+N
+java:S1135 "2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+F
+java:S1172®"*Remove this unused method parameter "evt".( ¹ÈÎÿÿÿÿÿ
+A
+java:S1172¶"*Remove this unused method parameter "evt".(™öáá
+N
+java:S1135·"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+S
+java:S1854Í"7Remove this useless assignment to local variable "nam".(§íÆüùÿÿÿÿ
+S
+java:S1854Õ"7Remove this useless assignment to local variable "nam".(§íÆüùÿÿÿÿ
+F
+java:S1172»"*Remove this unused method parameter "evt".(´šŞ÷ıÿÿÿÿ
+N
+java:S1135¼"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+O	java:S106Å"9Replace this use of System.out or System.err by a logger.(úòÅ²
+D
+java:S1481Í"(Remove this unused "nam" local variable.(§íÆüùÿÿÿÿ
+D
+java:S1481Õ"(Remove this unused "nam" local variable.(§íÆüùÿÿÿÿ
+F
+java:S1172Ş"*Remove this unused method parameter "evt".(öõ¸ƒüÿÿÿÿ
+N
+java:S1135ß"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+A
+java:S1172í"*Remove this unused method parameter "evt".(Î—ƒº
+N
+java:S1135î"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+A
+java:S1172Œ"*Remove this unused method parameter "evt".(ÖØ‡«
+N
+java:S1135"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+F
+java:S1172•"*Remove this unused method parameter "evt".(ƒ¥ùÿÿÿÿÿ
+N
+java:S1135–"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+A
+java:S1172™"*Remove this unused method parameter "evt".(ÆÀÁ
+A
+java:S1172¬"*Remove this unused method parameter "evt".(¬¹¹¼
+N
+java:S1135­"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+F
+java:S1172µ"*Remove this unused method parameter "evt".(ÇËÿÌúÿÿÿÿ
+N
+java:S1135¶"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+F
+java:S1197Ğ"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+\
+java:S2147â"ECombine this catch with the one at line 734, which has the same body.(¨¦Š½
+\
+java:S2147æ"ECombine this catch with the one at line 734, which has the same body.(ã€ 
+[
+java:S2147ê"ECombine this catch with the one at line 734, which has the same body.(ñÎ¯%
+F
+java:S1068"/Remove this unused "jSeparator1" private field.(’©ìÉ
+Y
+java:S1144Õ"=Remove this unused private "btnQLMenuActionPerformed" method.(¼ÃïÁıÿÿÿÿ
+T
+java:S1144Ú"=Remove this unused private "btnQLVip2ActionPerformed" method.(Ò…È‹
+Y
+java:S1144ß"=Remove this unused private "btnQLVip3ActionPerformed" method.(­ŸŒ”ıÿÿÿÿ
